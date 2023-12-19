@@ -14,6 +14,9 @@
 
 <h2> Technology Used : </h2>  POWER BI 
 
+![Screenshot_Virat](https://github.com/Sagarkr27/Performance_Analysis/assets/152361322/540b7758-ddf4-46bc-bdf2-e72657229806)
+
+
 <h2> Contributers</h2>
 
 <h3> Sagar Kumar </h3>
