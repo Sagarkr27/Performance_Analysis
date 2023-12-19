@@ -1,4 +1,4 @@
-# Performance_Analysis
+# Performance_Analysis_of_the_player
 
 <h2> Project Description :-  </h2> <p>This project is dedicated to the comprehensive analysis of player performance in Cricket. The objective is to derive actionable insights from player data to aid coaches, teams, and enthusiasts in making informed decisions, optimizing training regimes, and enhancing overall team performance.</p>
 
